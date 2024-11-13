@@ -1,2 +1,2 @@
 # Astro-palette
-astro palette - an AI image generator 
+astro palette - search engine 
